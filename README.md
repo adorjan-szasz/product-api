@@ -8,7 +8,7 @@
 
 ## About
 
-### A flexible Laravel API for handling products across various categories like books, fashion, and music. Includes dynamic pagination, Swagger docs, seeding, and clean API responses.
+### A flexible Laravel API for handling products across various categories like books, fashion, and music. Includes dynamic pagination, seeding, and clean API response.
 
 Developed an API endpoint that is capable of returning a paginated collection of different types of objects. 
 The endpoint can also receive a "quantity" query parameter that specifies how many products should be generated.
